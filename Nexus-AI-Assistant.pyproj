@@ -51,10 +51,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="app\static\favicon.png" />
     <Content Include="app\static\style.css" />
     <Content Include="app\static\script.js" />
     <Content Include="app\templates\index.html" />
+    <Content Include="README.md" />
     <Content Include="requirements.txt" />
     <Content Include=".env" />
     <Content Include=".env.example" />
