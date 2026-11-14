@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.vs/
+
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.spec
+
+litellm_uuid.txt
